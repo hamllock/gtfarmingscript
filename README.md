@@ -1,6 +1,4 @@
-# FarmScript
-
-small growtopia farming script
+Small Growtopia farming script, made for bfg
 
 ## Requirements
 
@@ -39,3 +37,5 @@ python farmscript.py 5
 ## Notes
 
 - Keep your player character centered on the screen
+- Hold the item you want to break (or the remote if you're using bfg)
+- I have no idea if this works on fullscreen
